@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai+Snehith+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+Engineer+%7C+BI+Developer+%7C+SQL+%26+Python+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
