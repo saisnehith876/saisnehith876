@@ -150,7 +150,6 @@ print(me.motto())
 ```
 🧱 Go (Golang)          →  Concurrency, REST APIs, CLI Tools
 ☁️  Cloud Data Platforms →  AWS/Azure Data Services, Cloud Warehousing
-🏛️  Medallion Arch       →  Bronze / Silver / Gold Layer Design Patterns
 🤖  Advanced ML          →  Feature Engineering, Model Deployment
 📐  Data Modeling        →  Star Schema, Snowflake Schema, Dimensional Modeling
 ```
