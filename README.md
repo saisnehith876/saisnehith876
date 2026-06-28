@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sai+Snehith+%F0%9F%91%8B;Data+Engineer+%7C+BI+Developer;SQL+%7C+Python+%7C+Power+BI+%7C+ETL+Pipelines;Turning+Raw+Data+into+Business+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sai+Snehith+%F0%9F%91%8B;Python+Developer+%7C+Monitoring;Python+%7C+API+%7C+Kafka+%7C+AWS+%7C+Docker;)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saisnehith&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/saisnehith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saisnehith)
@@ -23,20 +23,21 @@ class SaiSnehith:
         self.degree       = "B.Tech – ICT @ SASTRA University (2020–2024)"
         self.role         = "Associate System Engineer @ TCS"
         self.stack        = [
-            "Python", "SQL", "Power BI", "DAX",
-            "ETL Pipelines", "Go", "C++"
+            "Python","System Design","Microservices" "AWS", 
+            "Docker", "SQL","Pipelines", 
+            "Go", "C++"
         ]
         self.currentlyLearning = [
             "Advanced Data Warehousing",
-            "Medallion Architecture",
+            "DevOps",
             "Go (Golang)",
-            "Cloud Data Platforms"
+            "AI"
         ]
         self.funFact = "I reduced query incident resolution time \
                         across 50+ production queries 🚀"
 
     def motto(self):
-        return "Clean data → Clear insights → Confident decisions."
+        return "Clean code → Reliable APIs → Scalable systems"
 
 me = SaiSnehith()
 print(me.motto())
@@ -81,6 +82,7 @@ print(me.motto())
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
 [![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](#)
 [![IBM MQ](https://img.shields.io/badge/IBM%20MQ-054ADA?style=flat-square&logo=ibm&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)](#)
 [![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)](#)
 
 ---
@@ -158,7 +160,7 @@ print(me.motto())
 
 <div align="center">
 
-*"Clean data → Clear insights → Confident decisions."*
+*"Clean code → Reliable APIs → Scalable systems"*
 
 📍 Hyderabad, India &nbsp;|&nbsp; 📧 saisnehith876@gmail.com &nbsp;|&nbsp; 📞 +91 7989916065
 
