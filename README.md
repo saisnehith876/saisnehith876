@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sai+Snehith+%F0%9F%91%8B;Python+Developer+%7C+Observability;Python+%7C+API+%7C+Kafka+%7C+AWS+%7C+Docker;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sai+Snehith+%F0%9F%91%8B;Python+Developer+%7C+Observability;Python+%7C+MicroServices+%7C+DevOps;)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saisnehith&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/saisnehith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saisnehith)
